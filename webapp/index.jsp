@@ -16,5 +16,7 @@
 
             <input type="submit">
         </form>
+        <a href="test">Go to test</a>
+        <a href="list">Go to Eventlist</a>
     </body>
 </html>
