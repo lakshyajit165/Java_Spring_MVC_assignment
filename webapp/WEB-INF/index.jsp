@@ -1,5 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8" isELIgnored="false" %>
 <html>
     <body>
+        <h2>${name}</h2>
         <h2>Event Booking</h2>
         <form action="add" method="post">
             <label>Event Title: </label>
@@ -16,7 +19,7 @@
 
             <input type="submit">
         </form>
-        <a href="test">Go to test</a>
+
         <a href="list">Go to Eventlist</a>
     </body>
 </html>
